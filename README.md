@@ -7,8 +7,8 @@
 
 * 방학 (스터디)
   * 1주차 : ML/DS에서 사용하는 라이브러리 ([바로가기](https://github.com/sunaroum/studynote/blob/main/lecture/%EC%88%98%EB%82%98%EB%A1%9C%EC%9B%80_1%EC%A3%BC%EC%B0%A8.pdf))
-  * 2주차 : Data Preprocessing
-  * 3주차 : 빅데이터를 위한 통계
+  * 2주차 : Data Preprocessing ([바로가기](https://github.com/sunaroum/studynote/blob/main/lecture/%EC%88%98%EB%82%98%EB%A1%9C%EC%9B%80%202%EC%A3%BC%EC%B0%A8.pdf))
+  * 3주차 : 빅데이터를 위한 통계 ([바로가기](https://github.com/sunaroum/studynote/blob/main/lecture/%EC%88%98%EB%82%98%EB%A1%9C%EC%9B%80%203%EC%A3%BC%EC%B0%A8.pdf))
   * 4주차 : 금융 기초 지식
   * 5주차 : 금융 속 수학
   * 6주차 : 간단한 금융 관련 코딩 해보기
