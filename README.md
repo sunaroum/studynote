@@ -11,7 +11,7 @@
   * 3주차 : 빅데이터를 위한 통계 ([바로가기](https://github.com/sunaroum/studynote/blob/main/lecture/%EC%88%98%EB%82%98%EB%A1%9C%EC%9B%80%203%EC%A3%BC%EC%B0%A8.pdf))
   * 4주차 : 금융 기초 지식 ([바로가기](https://github.com/sunaroum/studynote/blob/main/lecture/%EC%88%98%EB%82%98%EB%A1%9C%EC%9B%80%204%EC%A3%BC%EC%B0%A8.pdf))
   * 5주차 : 금융 속 수학 ([바로가기](https://github.com/sunaroum/studynote/blob/main/lecture/%EC%88%98%EB%82%98%EB%A1%9C%EC%9B%80%205%EC%A3%BC%EC%B0%A8.pdf))
-  * 6주차 : 간단한 금융 관련 코딩 해보기
+  * 6주차 : 간단한 금융 관련 코딩 해보기 ([바로가기](https://github.com/sunaroum/studynote/blob/main/lecture/%EC%88%98%EB%82%98%EB%A1%9C%EC%9B%80_6%EC%A3%BC%EC%B0%A8_%EC%A3%BC%EC%8B%9D_%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4_%EC%B5%9C%EC%A0%81%ED%99%94_%EC%8B%A4%EC%8A%B5.ipynb))
     
 * 2학기 (연구 진행)
   * 초반 1 : 참고할만한 논문이나 깃허브 레포지터리 가져오기
