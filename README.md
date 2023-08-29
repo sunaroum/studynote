@@ -3,7 +3,7 @@
 
 ## 1기 Curriculum
 
-<B> 목표 : 데이터를 기반으로 금융 상품을 추천해주는 서비스 (퀀트) </B> 
+<B> 목표 : 기업의 재무제표/금융지표를 기반으로 매수 추천 여부를 평가하는 모델 </B> 
 
 * 방학 (스터디)
   * 1주차 : ML/DS에서 사용하는 라이브러리 ([바로가기](https://github.com/sunaroum/studynote/blob/main/lecture/%EC%88%98%EB%82%98%EB%A1%9C%EC%9B%80%201%EC%A3%BC%EC%B0%A8.pdf))
